@@ -1,0 +1,9 @@
+Cited below are all used models and textures:
+Shrub Model: https://sketchfab.com/3d-models/low-poly-shrub-013144890fc24115937487781e8d3953
+Tiger Model and Texture: https://sketchfab.com/3d-models/low-poly-tiger-fd3afdcd22db4ce4a86c7a1257850a15
+Island and Water Model: https://www.turbosquid.com/3d-models/free-fbx-model-island-water-scenes/636081
+Water Texture: https://www.dreamstime.com/photos-images/water-texture-seamless.html
+Palm Tree Model: https://sketchfab.com/3d-models/palm-a3e3805be6364321b60159793feb2f66
+Cave Model: https://sketchfab.com/3d-models/low-poly-rock-cave-7923065c6e5449dc8cdc5dd2ae653fbe
+Rocks: https://sketchfab.com/3d-models/low-poly-rock-pack-cd3c0540db16478eab39b4b0c198606d#download
+Skybox: https://dev.to/lesnitsky/webgl-month-day-23-skybox-in-webgl-1eig

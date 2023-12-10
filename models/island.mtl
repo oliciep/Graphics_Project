@@ -1,0 +1,24 @@
+# Blender 3.3.1 MTL File: 'island.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.2052405 0.76824 0.329652
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 500
+Ka 1.000000 1.000000 1.000000
+#Kd 0.297646 0.769422 0.800000
+Kd 1 1 1
+Ks 1 1 1
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd water_texture_2.jpg
